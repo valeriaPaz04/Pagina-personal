@@ -1,0 +1,23 @@
+.Padre{
+
+height: 500px;
+
+}
+.amarillo{
+    background-color: yellow;
+    height: 45%;
+    width: 100%;
+    
+}
+.azul{
+    background-color: blue;
+    height: 40%;
+    width: 100%;
+   
+}
+.rojo{
+    background-color: red;
+    height: 38%;
+    width: 100%;
+  
+}

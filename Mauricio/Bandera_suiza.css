@@ -1,0 +1,36 @@
+.Blanco{
+    background-color: white;
+    height: 300px;
+    width: 300px;
+    border: 100px red solid;
+    rotate: 45deg;
+    transform: skewX(45deg);
+}
+#R1{
+    background-color: red;
+    position: relative;
+    height: 100px;
+    width: 100px;
+}
+#R2{
+    background-color: red;
+    bottom: 100px;
+    left: 200px;
+    position: relative;
+    height: 100px;
+    width: 100px;
+}
+#R3{
+    background-color: red;
+    position: relative;
+    height: 100px;
+    width: 100px;
+}
+#R4{
+    background-color: red;
+    position: relative;
+    bottom: 100px;
+    left: 200px;
+    height: 100px;
+    width: 100px;
+}
